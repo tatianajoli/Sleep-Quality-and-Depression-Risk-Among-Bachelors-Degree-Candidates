@@ -1,5 +1,5 @@
 # The Impact of Sleep Quality on Depression Risk Among College Students Pursuing a Bachelor's Degree
-*A data science project made with Python in Colab - by Tatiana Gonzalez and Debby Marquez*
+*A data science project made with Python in Colab - by Tatiana Gonzalez and Debby Marquez (May 2025)*
 
 **Research Question:**
 
